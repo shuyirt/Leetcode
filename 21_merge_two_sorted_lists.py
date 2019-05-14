@@ -3,6 +3,7 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+from ListNode import ListNode
 
 class Solution(object):
     def mergeTwoLists(self, l1, l2):
