@@ -3,14 +3,14 @@
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
-from ListNode import ListNode
+from notes import ListNode
 
 class Solution(object):
     def mergeTwoLists(self, l1, l2):
         """
-        :type l1: ListNode
-        :type l2: ListNode
-        :rtype: ListNode
+        :type l1: notes.md
+        :type l2: notes.md
+        :rtype: notes.md
         """
         x = l1
         y = l2

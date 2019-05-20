@@ -8,8 +8,8 @@ class Solution(object):
 
     def reverseList(self, head):
         """
-        :type head: ListNode
-        :rtype: ListNode
+        :type head: notes.md
+        :rtype: notes.md
         """
 
         # iterative

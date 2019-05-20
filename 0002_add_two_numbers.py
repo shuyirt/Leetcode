@@ -4,7 +4,7 @@
 #         self.val = x
 #         self.next = None
 
-from ListNode import ListNode
+from notes import ListNode
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
         x = l1
