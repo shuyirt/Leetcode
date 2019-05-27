@@ -6,7 +6,7 @@
 | replace | replace a substr with another one | local.replace('.','')            |
 | index   | get the index of substr in a str  | email.index('@')                 |
 | join    | join strs                         | '.'.join(list)                   |
-|         |                                   |                                  |
+| lower   |                                   |                                  |
 
 ## Set
 
