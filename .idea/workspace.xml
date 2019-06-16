@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c6f819-d8eb-4a35-bebb-40cd867bb0cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/150_evaluate_reverse_politsh_notation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/200_number_of_islands_BFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/286_walls_and_gates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/38_count_and_say.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/557_reverse_words_in_a_string_III.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/709_to_lower_case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/804_unique_morse_code_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/94_binary_tree_inorder_traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0217_contains_duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0349_intersection_of_two_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0394_decode_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_integer_to_roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/286_walls_and_gates.py" beforeDir="false" afterPath="$PROJECT_DIR$/0286_walls_and_gates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/346_moving_average_from_data_stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/0346_moving_average_from_data_stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/557_reverse_words_in_a_string_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/0557_reverse_words_in_a_string_III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/622_design_circular_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/0622_design_circular_queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/709_to_lower_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/0709_to_lower_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/739_daily_temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/0739_daily_temperature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/804_unique_morse_code_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/0804_unique_morse_code_words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pythonic.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pythonic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +27,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/200_number_of_islands_DFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12_integer_to_roman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0394_decode_string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0349_intersection_of_two_arrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pythonic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" selection-start-line="2" selection-end-line="9" />
+              <first_editor relative-caret-position="480">
+                <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,78 +84,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/804_unique_morse_code_words.py">
+        <entry file="file://$PROJECT_DIR$/0217_contains_duplicate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0002_add_two_numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/38_count_and_say.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/286_walls_and_gates.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/200_number_of_islands_BFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/200_number_of_islands_DFS.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/22_generate_parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/94_binary_tree_inorder_traversal.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/557_reverse_words_in_a_string_III.py">
+        <entry file="file://$PROJECT_DIR$/0557_reverse_words_in_a_string_III.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
@@ -157,7 +161,6 @@
         <option value="$PROJECT_DIR$/150_evaluate_reverse_politsh_notation.py" />
         <option value="$PROJECT_DIR$/739_daily_temperature.py" />
         <option value="$PROJECT_DIR$/709_to_lower_case.py" />
-        <option value="$PROJECT_DIR$/Pythonic.md" />
         <option value="$PROJECT_DIR$/804_unique_morse_code_words.py" />
         <option value="$PROJECT_DIR$/38_count_and_say.py" />
         <option value="$PROJECT_DIR$/557_reverse_words_in_a_string_III.py" />
@@ -166,12 +169,19 @@
         <option value="$PROJECT_DIR$/200_number_of_islands.py" />
         <option value="$PROJECT_DIR$/94_binary_tree_inorder_traversal.py" />
         <option value="$PROJECT_DIR$/200_number_of_islands_DFS.py" />
+        <option value="$PROJECT_DIR$/12_integer_to_roman.py" />
+        <option value="$PROJECT_DIR$/394_decode_string.py" />
+        <option value="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" />
+        <option value="$PROJECT_DIR$/349_intersection_of_two_arrays.py" />
+        <option value="$PROJECT_DIR$/Pythonic.md" />
+        <option value="$PROJECT_DIR$/217_contains_duplicate.py" />
+        <option value="$PROJECT_DIR$/22_generate_parentheses.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="257" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="375" />
+    <option name="y" value="23" />
     <option name="width" value="1279" />
     <option name="height" value="777" />
   </component>
@@ -180,6 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,7 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,7 +264,11 @@
       <workItem from="1557965798564" duration="828000" />
       <workItem from="1558055838510" duration="1403000" />
       <workItem from="1558143634900" duration="683000" />
-      <workItem from="1558584281925" duration="4985000" />
+      <workItem from="1558584281925" duration="5161000" />
+      <workItem from="1559188798006" duration="409000" />
+      <workItem from="1559276732028" duration="354000" />
+      <workItem from="1559279823004" duration="269000" />
+      <workItem from="1559354715230" duration="171000" />
     </task>
     <task id="LOCAL-00001" summary="May 12, 2019 check in">
       <created>1557697561724</created>
@@ -291,17 +305,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557965841001</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="check in May 26">
+      <created>1558932829817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558932829819</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14513000" />
+    <option name="totallyTimeSpent" value="15892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="26" width="1279" height="777" extended-state="6" />
+    <frame x="375" y="23" width="1279" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27809215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29587713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,7 +353,8 @@
     <MESSAGE value="May 13, 2019 check in" />
     <MESSAGE value="May 14, 2019 check in" />
     <MESSAGE value="env" />
-    <option name="LAST_COMMIT_MESSAGE" value="env" />
+    <MESSAGE value="check in May 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="check in May 26" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode$1_two_sum.coverage" NAME="1_two_sum Coverage Results" MODIFIED="1557692652704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -451,14 +473,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/622_design_circular_queue.py">
+    <entry file="file://$PROJECT_DIR$/0622_design_circular_queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/346_moving_average_from_data_stream.py">
+    <entry file="file://$PROJECT_DIR$/0346_moving_average_from_data_stream.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
@@ -479,7 +501,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/739_daily_temperature.py">
+    <entry file="file://$PROJECT_DIR$/0739_daily_temperature.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
@@ -494,41 +516,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/709_to_lower_case.py">
+    <entry file="file://$PROJECT_DIR$/0709_to_lower_case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pythonic.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/804_unique_morse_code_words.py">
+    <entry file="file://$PROJECT_DIR$/0804_unique_morse_code_words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
@@ -549,34 +556,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/557_reverse_words_in_a_string_III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/286_walls_and_gates.py">
+    <entry file="file://$PROJECT_DIR$/0286_walls_and_gates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/94_binary_tree_inorder_traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -588,7 +581,82 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/200_number_of_islands_DFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="94" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_integer_to_roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0394_decode_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0349_intersection_of_two_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pythonic.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94_binary_tree_inorder_traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0557_reverse_words_in_a_string_III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0217_contains_duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22_generate_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
