@@ -13,3 +13,7 @@ class Solution(object):
             else:
                 store.append(cur)
         return True
+
+# Runtime: 28 ms, faster than 90.94% of Python3 online submissions for Happy Number.
+# Memory Usage: 13.7 MB, less than 5.26% of Python3 online submissions for Happy Number.
+# method: hashmap
