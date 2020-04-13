@@ -17,3 +17,6 @@ class Solution:
         y = a[1] - b[1]
         return x**2 + y**2
 
+# Runtime: 32 ms, faster than 66.06% of Python3 online submissions for Valid Square.
+# Memory Usage: 13.9 MB, less than 100.00% of Python3 online submissions for Valid Square.
+# method: math
