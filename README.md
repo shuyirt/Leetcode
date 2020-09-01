@@ -12,19 +12,19 @@
 |        |                     |        |      |
 |        |                     |        |      |
 
-### DP
+### Tree
 
-| Number | Name                   | level  | Y/N  |
-| ------ | ---------------------- | ------ | ---- |
-| 104    | Triangle/Minimum Total | Medium | Y    |
-|        |                        |        |      |
-
-### Two Pointer
-
-| Number | Name           | level | Y/N  |
-| ------ | -------------- | ----- | ---- |
-| 344    | Reverse String | Easy  |      |
-| 283    | Move Zeros     | Easy  | Y    |
+| Number | Name                           | level | Y/N  |
+| ------ | ------------------------------ | ----- | ---- |
+| 617    | Merge Two Binary Trees         | Easy  | N    |
+| 700    | Search in a Binary Search Tree | Easy  | N    |
+| 589    | N-ary Tree Preorder Traversal  | Easy  | N    |
+| 590    | N-ary Tree Postorder Traversal | Easy  | N    |
+| 938    | Range Sum of BST               | Easy  | Y    |
+| 111    | Minimum Depth of Binary Tree   | Easy  | N    |
+| 104    | Maximum Depth of Binary Tree   | Easy  | N    |
+| 112    | Path Sum                       | Easy  | Y    |
+|        |                                |       |      |
 
 ### Linked List
 
@@ -46,6 +46,22 @@
 | ------ | ------------------- | ------ | ---- |
 | 395    | Logger Rate Limiter | Easy   | Y    |
 | 362    | Design Hit Counter  | Medium | Y    |
+
+### 
+
+### DP
+
+| Number | Name                   | level  | Y/N  |
+| ------ | ---------------------- | ------ | ---- |
+| 104    | Triangle/Minimum Total | Medium | Y    |
+|        |                        |        |      |
+
+### Two Pointer
+
+| Number | Name           | level | Y/N  |
+| ------ | -------------- | ----- | ---- |
+| 344    | Reverse String | Easy  |      |
+| 283    | Move Zeros     | Easy  | Y    |
 
 ### Bit Manipulation
 
@@ -69,18 +85,6 @@
 |        |                                |        |      |
 
 
-
-### Tree
-
-| Number | Name                           | level | Y/N  |
-| ------ | ------------------------------ | ----- | ---- |
-| 617    | Merge Two Binary Trees         | Easy  | N    |
-| 700    | Search in a Binary Search Tree | Easy  | N    |
-| 589    | N-ary Tree Preorder Traversal  | Easy  | N    |
-| 590    | N-ary Tree Postorder Traversal | Easy  | N    |
-|        |                                |       |      |
-|        |                                |       |      |
-|        |                                |       |      |
 
 
 
