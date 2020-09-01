@@ -28,6 +28,6 @@ class Solution:
 
         return max(left, right)
 
-Runtime: 68 ms, faster than 11.98% of Python3 online submissions for Diameter of Binary Tree.
-Memory Usage: 15.5 MB, less than 75.86% of Python3 online submissions for Diameter of Binary Tree.
-method: recursion +  set
+# Runtime: 68 ms, faster than 11.98% of Python3 online submissions for Diameter of Binary Tree.
+# Memory Usage: 15.5 MB, less than 75.86% of Python3 online submissions for Diameter of Binary Tree.
+# method: recursion +  set

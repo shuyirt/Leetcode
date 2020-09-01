@@ -70,6 +70,20 @@
 
 
 
+### Tree
+
+| Number | Name                           | level | Y/N  |
+| ------ | ------------------------------ | ----- | ---- |
+| 617    | Merge Two Binary Trees         | Easy  | N    |
+| 700    | Search in a Binary Search Tree | Easy  | N    |
+| 589    | N-ary Tree Preorder Traversal  | Easy  | N    |
+| 590    | N-ary Tree Postorder Traversal | Easy  | N    |
+|        |                                |       |      |
+|        |                                |       |      |
+|        |                                |       |      |
+
+
+
 #redo list
 
 739 daily temp
